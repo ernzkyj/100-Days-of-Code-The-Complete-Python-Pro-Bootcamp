@@ -1,1 +1,1 @@
-The repository here contain the daily projects I did over the course of 100 days. Contains python codes
+The repository here contain the daily projects I did over the course of 100 days. This is a Udemy course that I embarked on to strengthen my coding. The instructor Dr Angela Yu was a medical doctor before she picked up coding. In a way, she is a good example of another individual who did a career transition.
